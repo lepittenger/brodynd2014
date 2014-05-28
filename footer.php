@@ -4,7 +4,7 @@
 	</div>
 
 <div id="footer">
-	<p>Website by <a href="http://laurenpittenger.com">Lauren Pittenger hello <a></p>
+	<p>Website by <a href="http://laurenpittenger.com">Lauren Pittenger<a></p>
 </div>
 <?php wp_footer(); ?>	
 <?php get_template_part('includes/scripts'); ?>
